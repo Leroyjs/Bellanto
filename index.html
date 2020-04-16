@@ -1,0 +1,849 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>Купить систему Умный дом, оборудование Умный дом Bellanto</title>
+	<link rel="stylesheet" href="media/stylelp.css">
+	<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+	<link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+	 <link rel="shortcut icon" href="media/favicon.ico" type="image/x-icon">
+	<meta name="description" content="Купить систему Умный дом от производителя. Комплекты от 9800руб. Склады  Москва и Екатерибург. Бесплатная доставка по России"/>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(52915825, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/52915825" style="position:absolute; left:-9999px;" alt="Яндекс Метрика" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+</head>
+<body>
+<div class="wrapper">
+	<div id="header">
+		<div class="logo_box">
+			<img src="media/bellanto.png" class="logo" alt="Bellanto Умный дом">
+		</div>
+		<div class="contacts">
+			<div class="inner-contacts adres-box">
+				<div class="inner-img">	
+					<img src="media/adress.png" class="logo" alt="Адрес">
+				</div>
+				<div class="inner-text inner-adres">
+					Склады в Москве и Екатеринбурге <br>
+					Бесплатная доставка по России 
+				</div>
+			</div>
+			<div class="inner-contacts phone-box">
+				<div class="inner-img">	
+					<img src="media/phone.png" class="logo" alt="Телефон">
+				</div>
+				<div class="inner-text inner-phone">
+					<a href="tel: +79512700000">+7 (951) 270-00-00</a><br>
+					<a href="mailto:BellantoSH@gmail.com">BellantoSH@gmail.com</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="content">
+		<div class="offer">
+			<div class="bcolor">
+				<div class="inner-offer">
+					<div class="inner-inner-offer" id="offer_advantages"><h1>УМНЫЙ ДОМ<br><div class="h2">Купить комплекты от 9800 ₽</div></h1>
+					<article>
+						• Без проводов и порчи ремонта <br>
+						• Простая установка<br>
+						• Без абонентской платы<br>
+						• 256 подключенных устройств<br>
+						• Шифровка данных<br>
+						• 12 часов автономной работы<br>
+					</article>
+					</div>
+					<div class="inner-inner-offer lead">
+						<b>Бесплатная консультация со&nbsp;специалистом</b><br><br>
+						<p>Получите бесплатную консультацию по&nbsp;комплектации и&nbsp;установке умного дома в&nbsp;соответствии с&nbsp;особенностями Вашего дома</p><br>
+						
+  
+						  
+						  <form>
+				  			<input type="hidden" name="project_name" value="Заявка на консультацию">
+							<input type="hidden" name="admin_email" value="bellantosh@gmail.com">
+							<input type="hidden" name="form_subject" value="Форма 1">
+						    
+						    <div class="group">      
+						      <input name="Phone" type="text" required>
+						      <span class="highlight"></span>
+						      <span class="bar"></span>
+						      <label>Ваш телефон</label>
+						    </div>
+						      
+						    <div class="group">      
+						      <input name="E-mail" type="text" required>
+						      <span class="highlight"></span>
+						      <span class="bar"></span>
+						      <label>Ваш E-mail</label>
+						    </div>
+						     <button class="button button1"><b>Получить бесплатную консультацию</b></button>
+						  </form>
+						  
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="smarthouse">
+			<div class="inner-smarthouse">
+				<div class="title"><h2>Наш умный дом&nbsp;— это:</h2></div>
+					<div class="advantage"><img src="media/advantage/thief.jpg" alt="Умный дом сигнализация" class="img_advantage">
+						 <h3>Охранная сигнализация</h3>
+						<p>Система «Умный дом» сделает Вас&nbsp;готовым ко&nbsp;всем непредвиденным ситуациям. Имитация присутствия, чуткие датчики, громкая сирена, а&nbsp;также резервное питание обеспечит безопасность Вам, Вашим близким и&nbsp;Вашему&nbsp;дому.</p>
+					</div>
+					<div class="advantage"><img src="media/advantage/fire.jpg" alt="Умный дом защита от пожаров" class="img_advantage">
+						 <h3>Защита от&nbsp;пожаров</h3>
+						<p>Умный дом Bellanto моментально зафиксирует задымление, включит сирену и&nbsp;отправит сигнал тревоги хозяину. Своевременное реагирование и&nbsp;оповещение необходимы при&nbsp;защите от&nbsp;возгорания, поэтому системы сигнализации не&nbsp;дадут Вашему имуществу сгореть!</p>
+					</div>
+					<div class="advantage"><img src="media/advantage/flooding.jpg" alt="Защита от протечек с помощью умного дома" class="img_advantage">
+						 <h3>Защита от&nbsp;протечек<br>и&nbsp;управление водоснабжением</h3>
+						<p>Своевременное уведомление об&nbsp;угрозе затопления сохранит Ваше&nbsp;имущество. Система «Умный дом» перекроет водоснабжение и&nbsp;оповестит Вас о&nbsp;проблеме. </p>
+					</div>
+						<div class="advantage"><img src="media/advantage/autowatering.jpg" alt="Умный полив в умном доме" class="img_advantage">
+						 <h3>Умный полив</h3>
+						<p>Умный дом позволяет управлять водоснабжением в&nbsp;саду. Вы&nbsp;получаете данные о&nbsp;температуре и&nbsp;влажности воздуха, а&nbsp;система производит полив в&nbsp;нужное время. Полив не&nbsp;будет включаться в&nbsp;неблагоприятный период, что&nbsp;убережет Ваш&nbsp;сад.</p>
+					</div>
+					<div class="advantage"><img src="media/advantage/device.jpg" alt="Управляйте электроприборами с Умным домом Bellanto Smart home" class="img_advantage">
+						 <h3>Управление электроприборами</h3>
+						<p>Купив Умный дом Bellanto, Вы можете управлять чайником, светильником и&nbsp;другими устройствами, не&nbsp;вставая с&nbsp;кровати. Управление приборами можно реализовать по&nbsp;команде со&nbsp;смартфона, по&nbsp;расписанию или&nbsp;после&nbsp;выполнения определенных условий, таких&nbsp;как&nbsp;вход в&nbsp;комнату.</p>
+					</div>
+					<div class="advantage"><img src="media/advantage/gate.jpg" alt="Управление воротами и роллетами" class="img_advantage">
+						 <h3>Управление воротами и&nbsp;роллетами</h3>
+						<p>Умный дом Bellanto поможет управлять роллетами и&nbsp;гаражными воротами по&nbsp;команде со&nbsp;смартфона или&nbsp;благодаря сценариям автоматического закрытия после&nbsp;постановки дома на&nbsp;охрану.</p>
+					</div>
+					<div class="advantage"><img src="media/advantage/tem.jpg" alt="Комфортный климат в Умном доме" class="img_advantage">
+						 <h3>Комфортный домашний климат</h3>
+						<p>Система «Умный дом» управляет отоплением, системой кондиционирования, вентиляции
+						и&nbsp;увлажнения помещения. Вы&nbsp;просто выставляете необходимую температуру
+						в&nbsp;помещении. Если&nbsp;требуется его&nbsp;охладить, включаются кондиционеры, если&nbsp;нагреть&nbsp;— отопление.
+						</p>
+					</div>
+					<div class="advantage"><img src="media/advantage/saving.jpg" alt="Экономия с умным домом" class="img_advantage">
+						 <h3>Экономия до 40&nbsp;% на&nbsp;услугах ЖКХ</h3>
+						<p>После покупки системы «Умный дом»
+							Вы&nbsp;сможете сэкономить до&nbsp;40&nbsp;% средств, затраченных на&nbsp;отопление, водоснабжение и&nbsp;энергопотребление.
+							Кроме&nbsp;того,&nbsp;при&nbsp;предотвращении непредвиденных ситуаций раскроется полная карта выгоды Умного дома.</p>
+					</div>
+					<div class="advantage"><img src="media/advantage/light.jpg" alt="Умное освещение" class="img_advantage">
+						 <h3>Умное освещение</h3>
+						<p>Вам больше не&nbsp;нужно вставать с&nbsp;кровати, чтобы&nbsp;выключить свет перед&nbsp;сном. Освещение будет включаться и&nbsp;выключаться при&nbsp;реагировании датчика движения в&nbsp;гардеробной, гараже и&nbsp;проходных помещениях. 
+						Имитируйте присутствие, когда&nbsp;вас&nbsp;нет дома, включая и&nbsp;выключая свет по&nbsp;расписанию.</p>
+					</div>
+					<div class="advantage hid"><img src="media/advantage/ventilation.jpg" alt="Умный дом сигнализация" class="img_advantage">
+						 <h3>Умная вытяжка</h3>
+						<p>Вытяжка в ванной будет включаться и выключаться по датчику температуры и влажности тогда, когда это действительно нужно, а не когда вы включаете свет</p>
+					</div>
+			</div>
+		</div>
+		<div class="manufacturers" data-parallax="scroll" data-image-src="media/Manufacturer.JPG">
+			<div class="inner-manufacturers">
+				<div class="inner-inner-manufacturers">
+					<span><span class="orange_text">Мы производитель</span>, поэтому у&nbsp;нас&nbsp;самая низкая цена в&nbsp;России и&nbsp;в&nbsp;мире&nbsp;— <span class="orange_text">9800&nbsp;руб за&nbsp;комплект!</span>
+				</div>
+			</div>
+		</div>
+		<div class="application">
+			<div class="inner-application">
+				<div class="title"><h2>Управляйте домом через&nbsp;приложение</h2><h4>Наше приложение работает быстро благодаря нативной разработке под Android и iOS.</h4>
+				</div>
+				<div class="app-advantage">
+					<div class="inner-app-advantege">
+						<div class="img-inner-app-advantege1">
+							<img src="media/app/money.svg" alt="Экономия денег">
+						</div>
+						<div class="text-inner-app-advantege left">
+							<h3>Без&nbsp;абонентской платы </h3>
+							<p>Приложение абсолютно бесплатное, а&nbsp;Умный дом не&nbsp;требует абонентской платы.</p>
+						</div>
+						<div class="img-inner-app-advantege2">
+							<img src="media/app/money.svg" alt="Экономия денег">
+						</div>
+					</div>
+					<div class="inner-app-advantege">
+						<div class="img-inner-app-advantege1">
+							<img src="media/app/home_eye.svg" alt="Всегда в курсе за домом">
+						</div>
+						<div class="text-inner-app-advantege left">
+							<h3>Всегда в&nbsp;курсе</h3>
+							<p>Умный дом оповестит Вас&nbsp;о&nbsp;любых инцидентах, которые произошли у&nbsp;Вас&nbsp;дома.</p>
+						</div>
+						<div class="img-inner-app-advantege2">
+							<img src="media/app/home_eye.svg" alt="Всегда в курсе за домом">
+						</div>
+					</div>
+					<div class="inner-app-advantege">
+						<div class="img-inner-app-advantege1">
+							<img src="media/app/shield.svg" alt="Шифровка данных">
+						</div>
+						<div class="text-inner-app-advantege left">
+							<h3>Шифровка данных</h3>
+							<p>Злоумышленники не&nbsp;получат Ваши&nbsp;персональные данные и&nbsp;информацию о&nbsp;доме.</p>
+						</div>
+						<div class="img-inner-app-advantege2">
+							<img src="media/app/shield.svg" alt="Шифровка данных">
+						</div>
+					</div>
+
+				</div>
+				<div class="img-app-advantage"></div>
+				<div class="app-advantage">
+					<div class="inner-app-advantege">
+						<div class="img-inner-app-advantege">
+							<img src="media/app/earth.svg" alt="Удаленное управление домом">
+						</div>
+						<div class="text-inner-app-advantege right">
+							<h3>Удаленное управление домом</h3>
+							<p>Комфортный климат, нагретая сауна и&nbsp;кофе будут всегда ждать Вас&nbsp;дома.</p>
+						</div>
+					</div>
+					<div class="inner-app-advantege">
+						<div class="img-inner-app-advantege">
+							<img src="media/app/family.svg" alt="Большая семья">
+						</div>
+						<div class="text-inner-app-advantege right">
+							<h3>Большая семья</h3>
+							<p>Программа может&nbsp;быть установлена на&nbsp;любое количество устройств.</p>
+						</div>
+					</div>
+					<div class="inner-app-advantege">
+						<div class="img-inner-app-advantege">
+							<img src="media/app/phone.svg" alt="Понятный и удобный интерфейс умного дома">
+						</div>
+						<div class="text-inner-app-advantege right">
+							<h3>Понятный и&nbsp;удобный интерфейс</h3>
+							<p>Мы&nbsp;разработали приложение с&nbsp;понятным и&nbsp;удобным интерфейсом.</p>
+						</div>
+					</div>
+
+				</div>
+			</div>
+			
+		</div>
+		<div class="gateway">
+			<div class="inner-gateway">
+				<div class="title"><h2>Контроллер Bellanto Smart home</h2><h4>Контроллер&nbsp;— это&nbsp;центр Умного дома. К&nbsp;нему&nbsp;подключаются все&nbsp;датчики и&nbsp;устройства.</h4>
+				</div>
+				<div class="img-gateway">	
+						<img src="media/gateway.jpg" class="logo" alt="Умный дом Bellanto Smart home">
+				</div>
+				<div class="advantege-gateway">	
+					<div class="inner-advantege-gateway">
+						<div class="img-advantege-gateway">
+							<img src="media/gateway/settings.svg" alt="Подключения к умному дому">
+						</div>
+						<div class="text-advantege-gateway">
+							<h3>256 одновременно подключенных устройств</h3>
+							<p>Максимальное подключение 248 беспроводных устройств и&nbsp;8&nbsp;проводных датчиков.</p>
+						</div>
+					</div>
+					<div class="inner-advantege-gateway">
+						<div class="img-advantege-gateway">
+							<img src="media/gateway/12.svg" alt="Автономность умного дома">
+						</div>
+						<div class="text-advantege-gateway">
+							<h3>12&nbsp;часов работы от&nbsp;аккумулятора</h3>
+							<p>Безопасность вашего дома&nbsp;— наш&nbsp;приоритет. Система Bellanto Smart home оповестит Вас, если&nbsp;злоумышленники проникнут в&nbsp;Ваш&nbsp;дом, отключив электричество. </p>
+						</div>
+					</div>
+					<div class="inner-advantege-gateway">
+						<div class="img-advantege-gateway">
+							<img src="media/gateway/big.svg" alt="Самостоятельное расширение умного дома">
+						</div>
+						<div class="text-advantege-gateway">
+							<h3>Возможность самостоятельного расширения</h3>
+							<p>Вы&nbsp;можете самостоятельно наращивать функциональность системы при&nbsp;появлении новых потребностей.</p>
+						</div>
+					</div>
+					<div class="inner-advantege-gateway">
+						<div class="img-advantege-gateway">
+							<img src="media/gateway/wifi.svg" alt="Подключение умного дома">
+						</div>
+						<div class="text-advantege-gateway">
+							<h3>Подключение по&nbsp;Wi-fi</h3>
+							<p>Вы&nbsp;не&nbsp;ограничены подключением по&nbsp;проводам, ведь&nbsp;Вы&nbsp; можете поставить контроллер на&nbsp;полку.</p>
+						</div>
+					</div>
+
+
+				</div>
+
+			</div>
+		</div>
+		<!--<div class="why_us">
+			<div class="inner-why_us">
+				<div class="title"><h2>При заказе у&nbsp;нас Вас&nbsp;ждут приятные бонусы</h2><h4>Каждый день мы&nbsp;усердно работаем, чтобы&nbsp;сделать жизнь наших клиентов&nbsp;лучше</h4>
+				</div>
+				<div class="advantege-why_us">
+					<div class="inner-advantege-why_us">
+						<div class="img-why">
+							<img src="media/why/moneybox.svg" alt="Экономия Bellanto Smart home">
+						</div><br>
+							<h3>Лучшая цена</h3><br>
+							<p>Благодаря собственному производству, революционным технологиям и отсутствию посредников предлагаем лучшую цену по&nbsp;рынку.</p>
+					</div>
+					<div class="inner-advantege-why_us">
+						<div class="img-why">
+							<img src="media/why/delivery.svg" alt="Доставка Bellanto Smart home">
+						</div><br>
+							<h3>Бесплатная и&nbsp;быстрая доставка</h3><br>
+							<p>Бесплатно доставим по&nbsp;всей России и&nbsp;отправим заказ в&nbsp;день оплаты. Курьерская доставка по Москве и Екатеринбургу</p>
+					</div>
+					<div class="inner-advantege-why_us">
+						<div class="img-why">
+							<img src="media/why/talk.svg" alt="Консультация по установке умного дома">
+						</div><br>
+							<h3>Консультация со&nbsp;специалистом</h3><br>
+							<p>Мы&nbsp;ответим на&nbsp;все&nbsp;вопросы по&nbsp;установке Умного дома, а&nbsp;также дадим советы по&nbsp;комплектации и&nbsp;расположению датчиков.</p>
+					</div>
+					<div class="inner-advantege-why_us">
+						<div class="img-why">
+							<img src="media/why/ok.svg" alt="Гарантия Bellanto Smart home">
+						</div><br>
+							<h3>Гарантия</h3><br>
+							<p>Мы&nbsp;уверены в&nbsp;продукте, который продаем, и&nbsp;поэтому мы&nbsp;даем гарантию до&nbsp;года.</p>
+					</div>
+					<div class="inner-advantege-why_us">
+						<div class="img-why">
+							<img src="media/why/stars.svg" alt="Качество Bellanto Smart home">
+						</div><br>
+							<h3>Высокое качество</h3><br>
+							<p>Мы&nbsp;используем высококачественные материалы для&nbsp;того, чтобы&nbsp;обеспечить Вашему устройству долгую службу.</p>
+					</div>
+					<div class="inner-advantege-why_us">
+						<div class="img-why">
+							<img src="media/why/present.svg" alt="Подарок к умному дому">
+						</div><br>
+							<h3>Приятный подарок</h3><br>
+							<p>Каждому покупателю мы&nbsp;отправляем приятный подарок.</p>
+					</div>
+
+				</div>
+			</div>
+		</div>-->
+		<div class="kits">
+				<div class="inner-kits">
+					<div class="title"><h2>Готовые комплекты</h2><h4>Мы&nbsp;сделали самые выгодные цены на&nbsp;комплекты для&nbsp;Вас</h4>
+					</div>
+					<div class="kits-block">
+						<div class="img-kit kit1"></div>
+						<h3>Комплект «Легкий старт»</h3>
+						<p>С&nbsp;данного комплекта лучше всего начать, если Вы&nbsp;ни&nbsp;разу не&nbsp;использовали систему «Умный дом».</p>
+						<b style="margin-left: -75px; bottom: 93px;position: absolute;">9800руб.  <strike style="font-weight: 400" >11630руб.</strike></b>
+						<div class="buttons">
+							<button class="button4 button-kit zk1" ><b>Купить</b></button>
+							<button class="button3 button-kit dt1" >Подробнее</button>
+						</div>
+					</div>
+					<div class="kits-block">
+						<div class="img-kit kit2"></div>
+						<h3>Комплект «Комфорт»</h3>
+						<p>Данный набор освободит Вашу&nbsp;жизнь от&nbsp;рутинных дел и&nbsp;защитит Ваш&nbsp;дом от&nbsp;злоумышленников.</p>
+						<b style="margin-left: -85px; bottom: 93px;position: absolute;">18400руб. <strike style="font-weight: 400" >22430руб.</strike></b>
+						<div class="buttons">
+							<button class="button4 button-kit zk2" ><b>Купить</b></button>
+							<button class="button3 button-kit dt2" >Подробнее</button>
+						</div>
+					</div>
+					<div class="kits-block">
+						<div class="img-kit kit3"></div>
+						<h3>Комплект «Люкс»</h3>
+						<p>С&nbsp;этим&nbsp;комлпектом Вы&nbsp;сможете реализовать почти все&nbsp;возможности Умного дома.</p>
+						<b style="margin-left: -85px; bottom: 93px;position: absolute;">26800руб.  <strike style="font-weight: 400" >32350руб.</strike></b>
+						<div class="buttons">
+							<button class="button4 button-kit zk3" ><b>Купить</b></button>
+							<button class="button3 button-kit dt3" >Подробнее</button>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="mob" class="kits">
+				<div class="inner-kits">
+					<div class="title"><h2>Готовые комплекты</h2><h4>Мы&nbsp;сделали самые выгодные цены на&nbsp;комплекты для&nbsp;Вас</h4>
+					</div>
+					<div id="kits-block-mob" class="sl-kit">
+					<div id="kits-block-mob" class="kits-block">
+						<div class="img-kit kit1"></div>
+						<h3>Комплект «Легкий старт»</h3>
+						<p>С&nbsp;данного комплекта лучше всего начать, если Вы&nbsp;ни&nbsp;разу не&nbsp;использовали систему «Умный дом».</p>
+						<b style="margin-left: -75px; bottom: 93px;position: absolute;">9800руб.  <strike style="font-weight: 400" >11630руб.</strike></b>
+						<div class="buttons">
+							<button class="button4 button-kit zk1" ><b>Купить</b></button>
+							<button class="button3 button-kit dt1" >Подробнее</button>
+						</div>
+					</div>
+					<div id="kits-block-mob" class="kits-block">
+						<div class="img-kit kit2"></div>
+						<h3>Комплект «Комфорт»</h3>
+						<p>Данный набор освободит Вашу&nbsp;жизнь от&nbsp;рутинных дел и&nbsp;защитит Ваш&nbsp;дом от&nbsp;злоумышленников.</p>
+						<b style="margin-left: -85px; bottom: 93px;position: absolute;">18400руб. <strike style="font-weight: 400" >22430руб.</strike></b>
+						<div class="buttons">
+							<button class="button4 button-kit zk2" ><b>Купить</b></button>
+							<button class="button3 button-kit dt2" >Подробнее</button>
+						</div>
+					</div>
+					<div id="kits-block-mob" class="kits-block">
+						<div class="img-kit kit3"></div>
+						<h3>Комплект «Люкс»</h3>
+						<p>С&nbsp;этим&nbsp;комлпектом Вы&nbsp;сможете реализовать почти все&nbsp;возможности Умного дома.</p>
+						<b style="margin-left: -85px; bottom: 93px;position: absolute;">26800руб.  <strike style="font-weight: 400" >32350руб.</strike></b>
+						<div class="buttons">
+							<button class="button4 button-kit zk3" ><b>Купить</b></button>
+							<button class="button3 button-kit dt3" >Подробнее</button>
+						</div>
+					</div>
+					</div>
+				</div>
+			</div>
+			<div class="blog" id="device">
+				<div class="inner-blog">
+					<div class="title"><h2>Дополнительные элементы:</h2><h4>В&nbsp;любой момент Вы&nbsp;можете улучшить стандартный комплект с&nbsp;помощью этого&nbsp;оборудования</h4>
+					</div>
+						<div class="article"><div class="img_article" style="background-image: url(media/device/rele.jpg);"></div>
+							 <h3>Беспроводное реле</h3>
+							<p>Используется для&nbsp;управления электрической нагрузкой. С&nbsp;помощью данного устройства можно управлять как&nbsp;светом, так&nbsp;и&nbsp;электроприборами.</p>
+							<b style="margin-left: -35px; bottom: 10px;position: absolute;">992руб.</b>
+						</div>
+						<div class="article"><div class="img_article" style="background-image: url(media/device/water.jpg);"></div>
+							 <h3>Вентиль</h3>
+							<p>Позволяет перекрыть воду, когда&nbsp;случилась&nbsp;авария.</p>
+							<b style="margin-left: -35px; bottom: 10px;position: absolute;">3482руб.</b>
+						</div>
+						<div class="article"><div class="img_article" style="background-image: url(media/device/socket.jpg);"></div>
+							 <h3>Розетка</h3>
+							<p>Позволяет управлять электрической нагрузкой без&nbsp;нужды в&nbsp;монтажных работах.</p>
+							<b style="margin-left: -35px; bottom: 10px;position: absolute;">1982руб.</b>
+						</div>
+							<div class="article"><div class="img_article" style="background-image: url(media/device/tem.jpg);"></div>
+							 <h3>Датчик температуры и&nbsp;влажности</h3>
+							<p>Купив, данный датчик можно контролировать и&nbsp;задавать температуру и&nbsp;влажность, которые будут поддерживаться в&nbsp;доме.</p>
+							<b style="margin-left: -35px; bottom: 10px;position: absolute;">992руб.</b>
+						</div>
+						<div class="article"><div class="img_article" style="background-image: url(media/device/smoke.jpg);"></div>
+							 <h3>Датчик дыма</h3>
+							<p>Система своевременно уведомляет Вас&nbsp;об&nbsp;угрозе задымления и&nbsp;возникновения пожара, что&nbsp;поможет защитить Ваш дом.</p>
+							<b style="margin-left: -35px; bottom: 10px;position: absolute;">1992руб.</b>
+						</div>
+						<div class="article"><div class="img_article" style="background-image: url(media/device/open.jpg);"></div>
+							 <h3>Датчик открытия</h3>
+							<p>Служит как&nbsp;для&nbsp;охраны помещения, так&nbsp;и&nbsp;для&nbsp;управления светом, когда Вы&nbsp;заходите в&nbsp;комнату.</p>
+							<b style="margin-left: -35px; bottom: 10px;position: absolute;">983руб.</b>
+						</div>
+						<div class="article"><div class="img_article" style="background-image: url(media/device/water.PNG);"></div>
+							 <h3>Датчик протечки</h3>
+							<p>Подает сигнал для&nbsp;перекрытия труб в&nbsp;случае попадания на&nbsp;него&nbsp;воды.
+							</p>
+							<b style="margin-left: -35px; bottom: 10px;position: absolute;">986руб.</b>
+						</div>
+						<div class="article"><div class="img_article" style="background-image: url(media/device/warning.jpg);"></div>
+							 <h3>Сирена</h3>
+							<p>Оповестит Вас&nbsp;и&nbsp;Ваших&nbsp;соседей об&nbsp;аварии или&nbsp;о&nbsp;попытке проникновения.</p>
+							<b style="margin-left: -35px; bottom: 10px;position: absolute;">879руб.</b>
+						</div>
+						<div class="article"><div class="img_article" style="background-image: url(media/device/move.jpg);"></div>
+							 <h3>Датчик движения и&nbsp;освещения</h3>
+							<p>Включает свет на&nbsp;время Вашего&nbsp;присутствия в&nbsp;темном помещении. Кроме&nbsp;того,&nbsp;выполняет охранную функцию.</p>
+							<b style="margin-left: -35px; bottom: 10px;position: absolute;">1998руб.</b>
+						</div>
+						<div class="article"><div class="img_article" style="background-image: url(media/device/vibration.jpg);"></div>
+							 <h3>Датчик разбития стекла</h3>
+							<p>Не даст злоумышленникам проникнуть через разбитое окно.
+							</p>
+							<b style="margin-left: -35px; bottom: 10px;position: absolute;">998руб.</b>
+						</div>
+						<div class="article"><div class="img_article" style="background-image: url(media/device/plast-water.jpg);"></div>
+							 <h3>Вентиль пластиковый</h3>
+							<p>Используется для автоматического полива растений, а также для управление водой в пластиковых трубах.</p>
+							<b style="margin-left: -35px; bottom: 10px;position: absolute;">998руб.</b>
+						</div>
+						<div class="article"><div class="img_article" style="background-image: url(media/device/gateway.jpg);"></div>
+							 <h3>Контроллер Bellanto Smart home</h3>
+							<p>Контроллер - это центр умного дома. К нему подключаются все датчики и устройства.</p>
+							<b style="margin-left: -35px; bottom: 10px;position: absolute;">7992руб.</b>
+						</div>
+				</div>
+			</div>
+		<div class="lead2">
+			<div class="img-lead2">
+			</div>
+			<div class="offer-lead2">
+				<div class="offer-form">
+					<h3>Бесплатная консультация со&nbsp;специалистом</h3>
+					<p>Введите телефон для&nbsp;получения консультации по&nbsp;подбору комплекта, который будет соответствовать особенностями Вашего&nbsp;дома. При&nbsp;покупке Вы&nbsp;получите скидку и&nbsp;приятный подарок.</p><br>
+				</div>
+				<form>
+					<input type="hidden" name="project_name" value="Заявка на консультацию">
+					<input type="hidden" name="admin_email" value="bellantosh@gmail.com">
+					<input type="hidden" name="form_subject" value="Форма 2">	    
+				    <div class="group">      
+				      <input name="Phone" type="text" class="leadform" required>
+				      <span class="highlight"></span>
+				      <span class="bar"></span>
+				      <label>Ваш телефон</label>
+				    </div>
+				      
+				    <div class="group">      
+				      <input name="E-mail" type="text" class="leadform" required>
+				      <span class="highlight"></span>
+				      <span class="bar"></span>
+				      <label>Ваш E-mail</label>
+				    </div>
+				     <button class="button button1"><b>Получить бесплатную консультацию</b></button>
+				  </form>
+			</div>
+		</div>
+		<div class="team">
+			<div class="inner-team">
+				<div class="title"><h2>Команда разработчиков</h2><h4>Каждый день мы&nbsp;усердно работаем, чтобы&nbsp;сделать жизнь наших клиентов&nbsp;лучше</h4>
+				</div>
+				<div class="team-one">
+					<div class="img-team igor">
+						
+					</div>
+					<h3>Игорь Тюгаев</h3>
+					<p>Разработчик приложения</p>
+				</div>
+				<div class="team-one">
+					<div class="img-team max">
+						
+					</div>
+					<h3>Максим Чудов</h3>
+					<p>Схемотехник</p>
+				</div>
+				<div class="team-one">
+					<div class="img-team kolt">
+						
+					</div>
+					<h3>Никита Колташов</h3>
+					<p>Дизайнер</p>
+				</div>
+				<div class="team-one">
+					<div class="img-team danil">
+						
+					</div>
+					<h3>Данил Колотыгин</h3>
+					<p>Разработчик приложения</p>
+				</div>
+				<div class="team-one">
+					<div class="img-team evgen">
+						
+					</div>
+					<h3>Евгений Колесников</h3>
+					<p>Программист микроконтроллеров</p>
+				</div>
+				<div class="team-one">
+					<div class="img-team dima">
+						
+					</div>
+					<h3>Дмитрий Щапин</h3>
+					<p>Разработчик приложения</p>
+				</div>
+				
+			</div>
+		</div>
+		<div class="Bellanto">
+			<div class="inner-Bellanto">
+				<div class="title"><h2>Bellanto Smart home</h2><h4> Bellanto&nbsp;— одно из&nbsp;самых инновационных предприятий по&nbsp;созданию оборудования для&nbsp;домашней автоматизации</h4>
+				</div>
+				<p id="bt">Центральный офис нашей компании находится в&nbsp;Екатеринбурге.
+				Компания осуществляет полный цикл по&nbsp;разработке, производству и&nbsp;реализации более 20&nbsp;видов продукции: система «Умный дом», сигнализация, датчики предотвращения аварий и&nbsp;другие.</p><br>
+				<p id="bt">Мы&nbsp;используем высококачественные материалы и&nbsp;иновационные технологии, например, 3D-принтер, для&nbsp;того,&nbsp;чтобы обеспечить нашему устройству долгую службу. Наше&nbsp;программное обеспечение проходит тщательную проверку и&nbsp;тестирование с&nbsp;помощью контрольной группы.
+				Мы&nbsp;гарантируем безотказную работу нашего оборудования.</p><br>
+				<p id="bt">Мы&nbsp;сами производим свой&nbsp;товар, что&nbsp;позволяет значительно сократить цену и&nbsp;повысить качество нашего продукта.</p>
+				<p id="bt">	Также купить систему «Умный дом» можно у&nbsp;наших <a id="bt" href="http://bellantosh.com/partner.php">партнеров</a>.</p>
+				<div class="bel-img">
+					<img  class="logo" src="media/Bellanto/3d.jpg" alt="3D принтер">
+				</div>
+				<div class="bel-img">
+					<img class="logo" src="media/Bellanto/plat.JPG" alt="Платы">
+				</div>
+				<div class="bel-img">
+					<img class="logo" src="media/Bellanto/stan.png" alt="Станок ЧПУ">
+				</div>
+			</div>
+		</div>
+		
+		<div class="footer">
+		<div class="inner-footer">
+			<div class="fdiv">
+				<a href="http://bellantosh.com/partner.php" class="hfoot"><b>СТАТЬ ПАРТНЕРОМ</b></a><br>
+			</div>
+			<a href="http://bellantosh.com/feedback.php" class="questions"><b>Связаться с&nbsp;нами</b></a>
+		</div>
+	</div>
+
+	</div>
+	<div class="overlay"></div>
+	<div class="pop-up1 pop-up">
+		<div class="inner-inner-offer lead" style="text-align: center; width: 100%;box-shadow: 0px 4px 24px -3px #000000;">
+			<a href="#" class="X"></a>
+			<div class="img-popup" style="background-image: url(media/kits/kit1.jpg);"></div>
+			<b>Комплект&nbsp;«Легкий&nbsp;старт»</b><br><br>
+			<p>Заполните форму, чтобы&nbsp;получить комплект и&nbsp;скидку 2000&nbsp;руб</p><br>
+			
+
+			  
+			  <form>
+	  			<input type="hidden" name="project_name" value="Заявка на консультацию">
+				<input type="hidden" name="admin_email" value="bellantosh@gmail.com">
+				<input type="hidden" name="form_subject" value="Комплект 1">
+			    
+			    <div class="group">      
+			      <input name="Phone" type="text" required>
+			      <span class="highlight"></span>
+			      <span class="bar"></span>
+			      <label>Ваш телефон</label>
+			    </div>
+			      
+			    <div class="group">      
+			      <input name="E-mail" type="text" required>
+			      <span class="highlight"></span>
+			      <span class="bar"></span>
+			      <label>Ваш E-mail</label>
+			    </div>
+			     <button style="width: 300px;" class="button button1"><b>Оставить заявку</b></button>
+			  </form>
+			  
+		</div>
+	</div>
+	<div class="pop-up2 pop-up">
+		<div class="inner-inner-offer lead" style="text-align: center; width: 100%;box-shadow: 0px 4px 24px -3px #000000;">
+			<a href="#" class="X"></a>
+			<div class="img-popup" style="background-image: url(media/kits/kit2.jpg);"></div>
+			<b>Комплект&nbsp;"Комфорт"</b><br><br>
+			<p>Заполните форму, что бы получить комплект и скидку 2000 руб</p><br>
+			
+
+			  
+			  <form>
+	  			<input type="hidden" name="project_name" value="Заявка на консультацию">
+				<input type="hidden" name="admin_email" value="bellantosh@gmail.com">
+				<input type="hidden" name="form_subject" value="Комплект 2">
+			    
+			    <div class="group">      
+			      <input name="Phone" type="text" required>
+			      <span class="highlight"></span>
+			      <span class="bar"></span>
+			      <label>Ваш телефон</label>
+			    </div>
+			      
+			    <div class="group">      
+			      <input name="E-mail" type="text" required>
+			      <span class="highlight"></span>
+			      <span class="bar"></span>
+			      <label>Ваш E-mail</label>
+			    </div>
+			     <button style="width: 300px;" class="button button1"><b>Оставить заявку</b></button>
+			  </form>
+			  
+		</div>
+	</div>
+	<div class="pop-up3 pop-up">
+		<div class="inner-inner-offer lead" style="text-align: center; width: 100%;box-shadow: 0px 4px 24px -3px #000000;">
+			<a href="#" class="X"></a>
+			<div class="img-popup" style="background-image: url(media/kits/kit3.jpg);"></div>
+			<b>Комплект&nbsp;"Люкс"</b><br><br>
+			<p>Заполните форму, что бы получить комплект и скидку 2000 руб</p><br>
+			
+
+			  
+			  <form>
+	  			<input type="hidden" name="project_name" value="Заявка на консультацию">
+				<input type="hidden" name="admin_email" value="bellantosh@gmail.com">
+				<input type="hidden" name="form_subject" value="Комплект 3">
+			    
+			    <div class="group">      
+			      <input name="Phone" type="text" required>
+			      <span class="highlight"></span>
+			      <span class="bar"></span>
+			      <label>Ваш телефон</label>
+			    </div>
+			      
+			    <div class="group">      
+			      <input name="E-mail" type="text" required>
+			      <span class="highlight"></span>
+			      <span class="bar"></span>
+			      <label>Ваш E-mail</label>
+			    </div>
+			     <button style="width: 300px;" class="button button1"><b>Оставить заявку</b></button>
+			  </form>
+			  
+		</div>
+	</div>
+	<div class="detail det1">
+		<div class="inner-detail">
+			<a href="#" class="X"></a>
+			<div class="img-detail img-d1">
+				
+			</div>
+			<div class="text-detail">
+				<h3>Комплект "Легкий старт"</h3><br>
+				<b>9800руб. <strike style="font-weight: 400" > 11630руб.</strike></b><br><br>
+				<button class="button4 button-det zk1" ><b>Купить</b></button><br><br>
+				<p class="popup-p-det">В комплект входит: <br>
+				1) Контроллер Bellanto Smart home<br>
+				2) Датчик движения с контролем освещения<br>
+				3) Реле<br>
+				4) Розетка</p><br>
+				<p class="popup-p-det  popup-p-text">Комплект позволяет управлять электроприборами, воротами или роллерами. Так же вы можете реализовать умное освещение. С данного комплекта лучше всего начать, если ни разу не использовали систему "Умный дом".<br><br></p>
+			</div>
+			<div class="scope-detail">
+				<h4 style="text-align: center;">Купив комплект "Легкий старт", у вас дома будет:</h4>
+				<div class="sl1">
+				    <div class="sl_slide nosl">
+				      <img src="media/advantage/thief.jpg" alt="" class="sl__img">
+				      <div class="sl__text">
+				        <h4 class="sl__zag">Охранная сигнализация</h4>
+				      </div>
+				    </div>
+				    <div class="sl_slide nosl">
+				      <img src="media/advantage/light.jpg" alt="" class="sl__img">
+				      <div class="sl__text">
+				        <h4 class="sl__zag">Умное освещение</h4>
+				      </div>
+				    </div>
+				    <div class="sl_slide nosl">
+				      <img src="media/advantage/device.jpg" alt="" class="sl__img">
+				      <div class="sl__text">
+				        <h4 class="sl__zag">Управление электроприборами</h4>
+				      </div>
+				    </div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<div class="detail det2">
+		<div class="inner-detail">
+			<a href="#" class="X"></a>
+			<div class="img-detail img-d2">
+				
+			</div>
+			<div class="text-detail">
+				<h3>Комплект "Комфорт"</h3><br>
+				<b>18400руб. <strike style="font-weight: 400" > 22430руб.</strike></b><br><br>
+				<button class="button4 button-det zk2" ><b>Купить</b></button><br><br>
+				<p class="popup-p-det">В комплект входит: <br>
+				1) Контроллер Bellanto Smart home<br>
+				2) Два датчика движения с контролем освещения<br>
+				3) Три реле<br>
+				4) Две розетки<br>
+				5) Четыре датчика открытия<br>
+				6) Сирена<br>
+				7) Датчик температуры и влажности</p><br>
+				<p class="popup-p-det popup-p-text">Позволяет автоматизировать большинство рутинных дел по дому. С помощью набора можно реализовать: умное освещение минимум в 3 комнатах, охранную сигнализацию, управление светом и электро приборами. Помимо этого можно организовать контроль и поддержание определенной температуры и влажности.<br><br></p>
+			</div>
+			<div class="scope-detail">
+				<h4 style="text-align: center;">Купив комплект "Комфорт", у вас дома будет:</h4>
+				<div class="sl">
+			    <div class="sl_slide">
+			      <img src="media/advantage/thief.jpg" alt="" class="sl__img">
+			      <div class="sl__text">
+			        <h4 class="sl__zag">Охранная сигнализация</h4>
+			      </div>
+			    </div>
+			    <div class="sl_slide">
+			      <img src="media/advantage/light.jpg" alt="" class="sl__img">
+			      <div class="sl__text">
+			        <h4 class="sl__zag">Умное освещение</h4>
+			      </div>
+			    </div>
+			    <div class="sl_slide">
+			      <img src="media/advantage/device.jpg" alt="" class="sl__img">
+			      <div class="sl__text">
+			        <h4 class="sl__zag">Управление розетками</h4>
+			      </div>
+			    </div>
+			    <div class="sl_slide">
+			      <img src="media/advantage/tem.jpg" alt="" class="sl__img">
+			      <div class="sl__text">
+			        <h4 class="sl__zag">Комфортный климат</h4>
+			      </div>
+			    </div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<div class="detail det3">
+		<div class="inner-detail">
+			<a href="#" class="X"></a>
+			<div class="img-detail img-d3">
+				
+			</div>
+			<div class="text-detail">
+				<h3>Комплект "Люкс"</h3>
+				<b>26800руб. <strike style="font-weight: 400" > 32350руб.</strike></b><br><br>
+				<button class="button4 button-det zk3" ><b>Купить</b></button><br><br>
+				<p class="popup-p-det">В комплект входит:<br>
+				1) Контроллер Bellanto Smart home<br>
+				2) Три датчика движения с контролем освещения<br>
+				3) Шесть реле<br>
+				4) Две розетки<br>
+				5) Четыре датчика открытия<br>
+				6) Сирена<br>
+				7) Датчик температуры и влажности<br>
+				8) Два датчика протечки<br>
+				9) Датчик задымленности и пожара<br>
+				10) Два датчика разбития стекла</p><br>
+				<p class="popup-p-det  popup-p-text">Самый выгодный комплект. После покупки у Вас будет умное освещение в 6 комнатах, охранная сигнализация, пожарная сигнализация, оповещение о протечках, управление светом, воротами, роллерами и электро приборами. Помимо этого можно организовать контроль и поддержание определенной температуры и влажности.<br><br></p>
+			</div>
+			<div class="scope-detail">
+			<h4 style="text-align: center;">Купив комплект "Люкс", у вас дома будет:</h4>
+				<div class="sl">
+			    <div class="sl_slide">
+			      <img src="media/advantage/thief.jpg" alt="" class="sl__img">
+			      <div class="sl__text">
+			        <h4 class="sl__zag">Охранная сигнализация</h4>
+			      </div>
+			    </div>
+			    <div class="sl_slide">
+			      <img src="media/advantage/fire.jpg" alt="" class="sl__img">
+			      <div class="sl__text">
+			        <h4 class="sl__zag">Защита от пожаров</h4>
+			      </div>
+			    </div>
+			    <div class="sl_slide">
+			      <img src="media/advantage/flooding.jpg" alt="" class="sl__img">
+			      <div class="sl__text">
+			        <h4 class="sl__zag">Защита от протечек</h4>
+			      </div>
+			    </div>
+			    <div class="sl_slide">
+			      <img src="media/advantage/light.jpg" alt="" class="sl__img">
+			      <div class="sl__text">
+			        <h4 class="sl__zag">Умное освещение</h4>
+			      </div>
+			    </div>
+			    <div class="sl_slide">
+			      <img src="media/advantage/device.jpg" alt="" class="sl__img">
+			      <div class="sl__text">
+			        <h4 class="sl__zag">Управление розетками</h4>
+			      </div>
+			    </div>
+			    <div class="sl_slide">
+			      <img src="media/advantage/tem.jpg" alt="" class="sl__img">
+			      <div class="sl__text">
+			        <h4 class="sl__zag">Комфортный климат</h4>
+			      </div>
+			    </div>
+			  </div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+<script src="slick/slick.min.js"></script>
+<script type="text/javascript" src="js/parallax.min.js"></script>
+</body>
+</html>
